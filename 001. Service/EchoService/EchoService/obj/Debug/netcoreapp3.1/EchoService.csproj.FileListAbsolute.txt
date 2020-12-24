@@ -1,0 +1,13 @@
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\bin\Debug\netcoreapp3.1\EchoService.exe
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\bin\Debug\netcoreapp3.1\EchoService.deps.json
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\bin\Debug\netcoreapp3.1\EchoService.runtimeconfig.json
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\bin\Debug\netcoreapp3.1\EchoService.runtimeconfig.dev.json
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\bin\Debug\netcoreapp3.1\EchoService.dll
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\bin\Debug\netcoreapp3.1\EchoService.pdb
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\obj\Debug\netcoreapp3.1\EchoService.csprojAssemblyReference.cache
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\obj\Debug\netcoreapp3.1\EchoService.AssemblyInfoInputs.cache
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\obj\Debug\netcoreapp3.1\EchoService.AssemblyInfo.cs
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\obj\Debug\netcoreapp3.1\EchoService.csproj.CoreCompileInputs.cache
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\obj\Debug\netcoreapp3.1\EchoService.dll
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\obj\Debug\netcoreapp3.1\EchoService.pdb
+X:\001UnityProject\Net_Learning\001. Service\EchoService\EchoService\obj\Debug\netcoreapp3.1\EchoService.genruntimeconfig.cache
