@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\mrws\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\mrws\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_EchoService.2049525647.00" t="ExcludeRecursive" />
-    <e p="X:\001UnityProject\Net_Learning\001. Service\EchoService" t="IncludeFlat">
+    <e p="C:\Users\mrws\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mrws\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_EchoService.1784986437.00" t="ExcludeRecursive" />
+    <e p="X:\002. Service\001. Service\EchoService" t="IncludeFlat">
       <e p="EchoService" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="EchoService.csproj" t="IncludeRecursive" />

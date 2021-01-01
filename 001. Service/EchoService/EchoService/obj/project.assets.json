@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\001UnityProject\\Net_Learning\\001. Service\\EchoService\\EchoService\\EchoService.csproj",
+      "projectUniqueName": "X:\\002. Service\\001. Service\\EchoService\\EchoService\\EchoService.csproj",
       "projectName": "EchoService",
-      "projectPath": "X:\\001UnityProject\\Net_Learning\\001. Service\\EchoService\\EchoService\\EchoService.csproj",
+      "projectPath": "X:\\002. Service\\001. Service\\EchoService\\EchoService\\EchoService.csproj",
       "packagesPath": "C:\\Users\\mrws\\.nuget\\packages\\",
-      "outputPath": "X:\\001UnityProject\\Net_Learning\\001. Service\\EchoService\\EchoService\\obj\\",
+      "outputPath": "X:\\002. Service\\001. Service\\EchoService\\EchoService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mrws\\AppData\\Roaming\\NuGet\\NuGet.Config",

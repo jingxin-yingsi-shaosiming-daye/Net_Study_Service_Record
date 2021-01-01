@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PONurHdycKd/EqoUMVM1o4WtVH5X804oe7obnI0LbpfyE0IYLU2CaIrw2pkwGrzfTYo4p1oAlabTXEKzO6Utag==",
+  "dgSpecHash": "Zwfn/19qtdZClnRlagXXXMgEVa+KG9MYtM1g/Lq22ZoAzEqxfjVZB38MpK2hk0BBY7kh0MYe4Ybo4KtJiPzJkw==",
   "success": true,
-  "projectFilePath": "X:\\001UnityProject\\Net_Learning\\001. Service\\EchoService\\EchoService\\EchoService.csproj",
+  "projectFilePath": "X:\\002. Service\\001. Service\\EchoService\\EchoService\\EchoService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

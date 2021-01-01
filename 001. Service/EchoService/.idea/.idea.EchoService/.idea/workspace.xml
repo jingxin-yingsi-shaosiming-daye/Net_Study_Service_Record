@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd53b8d0-7a8b-4f71-813b-b5154719d519" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/../../000. unity_Net/Net_Study_Record/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../000. unity_Net/Net_Study_Record/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../000. unity_Net/Net_Study_Record/Assets/Scripts/Echo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../000. unity_Net/Net_Study_Record/Assets/Scripts/Echo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EchoService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +25,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/EchoService/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9DBB8BA0-76C0-4717-925C-EA41C407F9D0/39/15ec349d/Socket.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
-    <changedPaths>
-      <option value="$PROJECT_DIR$/EchoService/Program.cs" />
-    </changedPaths>
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/EchoService/Program.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1m6dE2jGLVkEJ2nPKqXt7XwxVcz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +74,10 @@
       </method>
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="cd53b8d0-7a8b-4f71-813b-b5154719d519" name="默认的" comment="" />
@@ -68,13 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608817859451</updated>
       <workItem from="1608817870045" duration="3104000" />
+      <workItem from="1609469173344" duration="1913000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -86,8 +105,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="623" height="511" key="SwitcherDM" timestamp="1609477244460">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="623" height="511" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1609477244460" />
   </component>
 </project>
