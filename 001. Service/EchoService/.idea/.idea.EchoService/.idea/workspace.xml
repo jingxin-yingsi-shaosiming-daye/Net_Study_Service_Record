@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd53b8d0-7a8b-4f71-813b-b5154719d519" name="默认的" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EchoService/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/Debug/netcoreapp3.1/EchoService.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/EchoService.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EchoService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EchoService/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608817859451</updated>
       <workItem from="1608817870045" duration="3104000" />
-      <workItem from="1609469173344" duration="1913000" />
+      <workItem from="1609469173344" duration="12243000" />
     </task>
     <servers />
   </component>
@@ -111,9 +101,29 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1867" height="289" key="GridCell.Tab.0.bottom" timestamp="1610034851322">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1610034851322" />
+    <state width="1867" height="289" key="GridCell.Tab.0.center" timestamp="1610034851322">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="289" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1610034851322" />
+    <state width="1867" height="289" key="GridCell.Tab.0.left" timestamp="1610034851322">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="289" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1610034851322" />
+    <state width="1867" height="289" key="GridCell.Tab.0.right" timestamp="1610034851322">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1867" height="289" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1610034851322" />
     <state width="623" height="511" key="SwitcherDM" timestamp="1609477244460">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="623" height="511" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1609477244460" />
+    <state x="1030" y="171" width="819" height="708" key="find.popup" timestamp="1609642069964">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1030" y="171" width="819" height="708" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1609642069964" />
   </component>
 </project>
